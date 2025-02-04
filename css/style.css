@@ -1,0 +1,16 @@
+.s_tbdr{
+    border: 1px solid black;
+}
+
+header{
+    height: 200px;
+    background: purple;
+}
+
+footer{
+    height: 120px;
+}
+
+.s_main{
+    height: 600px;
+}
